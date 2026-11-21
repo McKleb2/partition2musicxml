@@ -18,6 +18,7 @@ brew install git python openjdk@25
 Puis :
 
 ```bash
+chmod +x install.sh run.sh
 ./install.sh
 ```
 
